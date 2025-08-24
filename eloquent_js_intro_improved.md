@@ -9,7 +9,7 @@
 🔧 Regular Screwdriver    vs    💻 Computer
 ├─ One job: turn screws          ├─ Millions of jobs possible
 ├─ Simple to use                 ├─ Complex but powerful  
-└─ Manual control               └─ Needs precise instructions
+└─ Manual control                └─ Needs precise instructions
 ```
 
 **The Big Idea:** Just like a screwdriver is a tool that amplifies your ability to turn screws, a computer is a tool that amplifies your ability to process information and solve problems. But unlike a screwdriver, you need to *teach* it what to do!
